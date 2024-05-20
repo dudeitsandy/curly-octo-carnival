@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/curly-octo-carnival/static/css/main.5a53d23e.css",
-    "main.js": "/curly-octo-carnival/static/js/main.5c152c14.js",
+    "main.css": "/curly-octo-carnival/static/css/main.d37e7315.css",
+    "main.js": "/curly-octo-carnival/static/js/main.cde63512.js",
     "index.html": "/curly-octo-carnival/index.html",
-    "main.5a53d23e.css.map": "/curly-octo-carnival/static/css/main.5a53d23e.css.map",
-    "main.5c152c14.js.map": "/curly-octo-carnival/static/js/main.5c152c14.js.map"
+    "main.d37e7315.css.map": "/curly-octo-carnival/static/css/main.d37e7315.css.map",
+    "main.cde63512.js.map": "/curly-octo-carnival/static/js/main.cde63512.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a53d23e.css",
-    "static/js/main.5c152c14.js"
+    "static/css/main.d37e7315.css",
+    "static/js/main.cde63512.js"
   ]
 }
